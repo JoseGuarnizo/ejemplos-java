@@ -1,0 +1,105 @@
+Taller del Segundo Bimestre 
+---------------------------
+
+Dado el siguiente archivo: imprimir en pantalla los países que contengan entre sus letras la letra u, junto a su nombre en  inglés.
+
+Archivo dado: paises.txt
+
+--------------------------------
+Dado el siguiente archivo: imprimir en pantalla los estudiantes cuyos apellidos empiecen con A o B o C o E o U.
+
+Archivo dado: estudiantes.txt
+---------------------------------
+Dado el siguiente archivo: generar otros archivo que contenga el nombre, apellido y edad de los estudiantes, se usará el siguiente formato:
+
+René|Elizalde|33
+
+Archivo dado: estudiantes.txt
+Archivo por generar: estudiantes-2-1.txt
+--------------------------------
+
+Se requiere simular la venta de un supermercado y generar una factura básica ( en un archivo )
+
+1.- Al usuario se le presentará una menú de posibles compras
+	- Arroz; costo del kilo $2.50
+	- Azúcar; costo del kilo $1.50
+	- Aceite; costo $ 1.30 por unidad
+	- Tallarines; costo $ 1.50 por unidad
+	- Sal; costo del kilo $1.00
+
+	Si el usuario acepta un producto para la compra, se le debería preguntar por la cantidad.
+
+La factura final será así:
+
+	Comercial Ventas y Reventas
+Nombre:.................
+Ciudad:.................
+---------------------------------------
+Producto	Cantidad	Precio
+Arroz		10		25
+Aceite		2		2.60
+---------------------------------------
+		Subtotal	27.60
+		Iva 14 %	---
+		Total		---				
+
+
+
+-----------------------------------
+-----------------------------------
+Los grupos están formados así:
+
+39-18
+43-59
+
+45-59
+30-42
+
+24-18
+38-19
+
+42-67
+27-00
+
+32-42
+
+41-75
+34-87
+
+28-95
+43-28
+
+15-00
+48-37
+
+
+43-95
+31-12
+
+
+35-13
+31-17
+
+32-62
+
+40-32
+32-67
+
+42-95
+26-47
+
+
+25-72
+29-41
+
+37-18
+33-29
+
+39-89
+27-32
+
+------------------------------------------------
+
+Los trabajos deben subirse al repositorio de github.
+
+

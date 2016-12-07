@@ -1,0 +1,11 @@
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+	Comercial Ventas y Reventas
+Nombre: joel
+Ciudad: Loja
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+Producto		Cant		Precio
+Arroz     		5		12,50
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+			Subtotal: 12,50
+			IVA: 1,75
+			TOTAL: 14,25
