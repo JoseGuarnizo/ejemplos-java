@@ -1,0 +1,13 @@
+Comercial Ventas y Reventas
+Nombre:willy
+Ciudad:loja
+------------------------------------
+Producto       Cantidad       Precio         
+------------------------------------
+Tallarines     4              6,000000       
+------------------------------------
+Subtotal:                10,500000 
+IVA:                     1,470000  
+Total:                   11,970000 
+
+
